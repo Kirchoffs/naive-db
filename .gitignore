@@ -1,0 +1,26 @@
+# Gradle specific
+.gradle/
+build/
+out/
+
+# IntelliJ IDEA
+.idea/
+
+# Eclipse
+.classpath
+.project
+.settings/
+bin/
+
+# Compiled Java classes
+*.class
+
+# Compiled Gradle build files
+build/
+
+# Logs
+*.log
+
+# OS-specific files
+.DS_Store
+Thumbs.db
